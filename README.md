@@ -1,6 +1,3 @@
-# Python-Project
-IPL 2022 Player Auction Web Scraper 
-
 # 🏏 IPL 2022 Player Auction Web Scraper
 
 A Python web scraper that extracts IPL 2022 auction team data from the [official IPL website](https://www.iplt20.com/auction/2022) and saves it as a clean CSV file.
