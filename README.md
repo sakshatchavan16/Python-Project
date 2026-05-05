@@ -73,9 +73,8 @@ pip install requests beautifulsoup4 lxml pandas
 
 ```
 ipl-auction-2022-scraper/
-├── ipl_auction_2022_scraper.py   # Main scraper script
+├── ipl_auction_2022.py   # Main scraper script
 ├── IPL_Auction_2022.csv          # Generated output (after running)
-├── requirements.txt
 └── README.md
 ```
 
@@ -92,6 +91,3 @@ SR_NO  TEAM                  FUNDS_REMAINING  OVERSEAS_PLAYERS  TOTAL_PLAYERS
 
 ---
 
-## 📄 License
-
-This project is open-source and available under the [MIT License](LICENSE).
