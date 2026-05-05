@@ -73,8 +73,8 @@ pip install requests beautifulsoup4 lxml pandas
 
 ```
 ipl-auction-2022-scraper/
-├── ipl_auction_2022.py   # Main scraper script
-├── IPL_Auction_2022.csv          # Generated output (after running)
+├── IPL_2022.png             # Generated output (after running)
+├── IPL_auction_2022.ipynb   # Main scraper script
 └── README.md
 ```
 
